@@ -1,0 +1,801 @@
+Product_Name,Category,Order_Date,Customer_ID,City,Country,Quantity,Unit_Price,Discount,Total_Value
+Portable SSD,Computing,2024-07-07,CUST-284026,Townsville,Australia,2,415.26,0,830.52
+Bluetooth Headphones,Mobile,2025-05-12,CUST-303296,Gold Coast,Australia,3,184.23,0,552.69
+External Hard Drive,Mobile,2023-03-21,CUST-878934,Geelong,Australia,3,380.12,0,1140.36
+Fitness Tracker,Accessories,2025-03-16,CUST-655338,Townsville,Australia,1,564.75,0,564.75
+Gaming Keyboard,Electronics,2023-09-25,CUST-025421,Melbourne,Australia,2,119.11,0,238.22
+Smartphone Case,Mobile,2024-09-22,CUST-435705,Canberra,Australia,5,403.44,5,1916.34
+USB Hub,Accessories,2025-05-20,CUST-589940,Canberra,Australia,3,125.01,0,375.03
+Webcam HD,Accessories,2024-02-26,CUST-814897,Sydney,Australia,2,395.24,15,671.91
+4K Monitor,Office,2023-02-20,CUST-221398,Adelaide,Australia,4,469.39,10,1689.8
+Wireless Mouse,Electronics,2024-12-26,CUST-186309,Melbourne,Australia,4,545.94,0,2183.76
+Gaming Mouse Pad,Accessories,2023-09-21,CUST-895714,Wollongong,Australia,5,72.69,10,327.11
+Mechanical Keyboard,Office,2023-10-23,CUST-207632,Perth,Australia,2,476.87,0,953.74
+LED Desk Lamp,Electronics,2023-09-06,CUST-921692,Perth,Australia,2,462.66,0,925.32
+Noise Cancelling Headphones,Electronics,2023-06-03,CUST-616707,Perth,Australia,4,428.64,0,1714.56
+Tablet 10in,Computing,2025-02-26,CUST-585428,Geelong,Australia,5,517.79,0,2588.95
+LED Desk Lamp,Mobile,2023-08-22,CUST-073985,Hobart,Australia,4,183.27,20,586.46
+4K Monitor,Gaming,2023-04-13,CUST-469199,Melbourne,Australia,1,568.73,0,568.73
+Smartphone Case,Accessories,2025-02-26,CUST-769864,Hobart,Australia,4,322.48,0,1289.92
+Wireless Earbuds,Computing,2025-01-18,CUST-724191,Melbourne,Australia,1,354.06,15,300.95
+Gaming Mouse Pad,Mobile,2023-05-15,CUST-681378,Perth,Australia,5,590.25,0,2951.25
+LED Desk Lamp,Office,2025-06-07,CUST-377986,Gold Coast,Australia,1,573.3,5,544.63
+Portable SSD,Electronics,2023-12-28,CUST-948518,Newcastle,Australia,3,473.73,20,1136.95
+Webcam HD,Gaming,2024-08-23,CUST-520907,Sydney,Australia,1,354.7,20,283.76
+Gaming Mouse Pad,Computing,2024-10-18,CUST-192593,Perth,Australia,3,368.39,5,1049.91
+Fitness Tracker,Gaming,2024-12-20,CUST-332072,Melbourne,Australia,2,359.54,0,719.08
+Wireless Earbuds,Electronics,2023-02-21,CUST-078076,Sydney,Australia,1,291.12,0,291.12
+External Hard Drive,Electronics,2023-11-08,CUST-781061,Sydney,Australia,4,305.11,0,1220.44
+Bluetooth Headphones,Mobile,2024-05-21,CUST-862853,Perth,Australia,2,440.95,0,881.9
+USB-C Charger,Mobile,2025-03-23,CUST-998554,Brisbane,Australia,1,563.3,0,563.3
+Smartwatch,Computing,2025-05-12,CUST-752319,Perth,Australia,1,541.27,5,514.21
+Tablet 10in,Mobile,2025-02-21,CUST-846168,Newcastle,Australia,3,32.98,0,98.94
+Wireless Mouse,Mobile,2024-05-25,CUST-413664,Geelong,Australia,4,89.85,0,359.4
+USB Hub,Office,2024-08-14,CUST-866964,Townsville,Australia,3,317.67,0,953.01
+Bluetooth Headphones,Mobile,2023-12-10,CUST-684601,Wollongong,Australia,3,442.6,0,1327.8
+Noise Cancelling Headphones,Electronics,2024-03-14,CUST-450510,Hobart,Australia,5,246.4,0,1232.0
+External Hard Drive,Office,2024-01-04,CUST-224943,Hobart,Australia,2,39.12,0,78.24
+Wireless Earbuds,Mobile,2023-04-23,CUST-440409,Melbourne,Australia,3,296.28,15,755.51
+Tablet 10in,Mobile,2024-02-23,CUST-174122,Brisbane,Australia,4,28.26,5,107.39
+Webcam HD,Mobile,2025-04-19,CUST-165243,Brisbane,Australia,3,529.24,20,1270.18
+Smartphone Case,Gaming,2023-04-24,CUST-734028,Perth,Australia,2,248.88,20,398.21
+USB-C Charger,Electronics,2024-06-06,CUST-396582,Hobart,Australia,2,442.55,20,708.08
+Tablet 10in,Accessories,2024-09-03,CUST-811675,Townsville,Australia,1,552.32,5,524.7
+Smartwatch,Accessories,2023-05-15,CUST-786194,Wollongong,Australia,3,422.8,20,1014.72
+Noise Cancelling Headphones,Gaming,2023-04-24,CUST-005516,Brisbane,Australia,3,84.06,5,239.57
+Portable SSD,Office,2024-02-26,CUST-986405,Hobart,Australia,2,378.2,0,756.4
+Webcam HD,Computing,2024-10-04,CUST-967013,Hobart,Australia,4,419.64,10,1510.7
+Gaming Mouse Pad,Office,2024-08-05,CUST-653088,Townsville,Australia,5,332.84,10,1497.78
+Laptop Backpack,Gaming,2025-01-24,CUST-842557,Sydney,Australia,3,410.98,0,1232.94
+Noise Cancelling Headphones,Electronics,2024-09-30,CUST-629366,Sydney,Australia,5,34.22,10,153.99
+USB-C Charger,Accessories,2023-05-29,CUST-809914,Townsville,Australia,1,159.94,15,135.95
+Mechanical Keyboard,Computing,2023-01-04,CUST-441802,Hobart,Australia,5,455.16,0,2275.8
+Mechanical Keyboard,Accessories,2024-11-08,CUST-484567,Adelaide,Australia,5,314.73,10,1416.29
+Wireless Mouse,Gaming,2025-03-20,CUST-615507,Hobart,Australia,1,364.36,0,364.36
+Gaming Keyboard,Accessories,2025-01-30,CUST-246896,Hobart,Australia,5,281.99,20,1127.96
+Tablet 10in,Gaming,2024-02-23,CUST-257540,Melbourne,Australia,4,573.79,10,2065.64
+Portable SSD,Mobile,2024-03-02,CUST-837643,Hobart,Australia,3,403.73,0,1211.19
+Tablet 10in,Computing,2025-03-27,CUST-590303,Adelaide,Australia,4,44.34,10,159.62
+Laptop Backpack,Office,2024-02-15,CUST-400908,Townsville,Australia,5,371.36,0,1856.8
+LED Desk Lamp,Computing,2023-02-10,CUST-592492,Sydney,Australia,1,537.27,0,537.27
+USB-C Charger,Office,2025-03-17,CUST-717539,Geelong,Australia,5,311.84,5,1481.24
+Noise Cancelling Headphones,Electronics,2024-11-01,CUST-229252,Brisbane,Australia,4,157.71,0,630.84
+USB-C Charger,Gaming,2024-08-24,CUST-224947,Sydney,Australia,5,169.15,15,718.89
+Wireless Mouse,Gaming,2025-05-08,CUST-203543,Hobart,Australia,2,485.01,20,776.02
+Smartphone Case,Gaming,2024-08-31,CUST-777709,Geelong,Australia,1,228.91,0,228.91
+Portable SSD,Gaming,2023-08-24,CUST-373009,Adelaide,Australia,3,68.49,0,205.47
+USB Hub,Gaming,2024-03-08,CUST-698230,Perth,Australia,5,217.61,20,870.44
+Laptop Stand,Computing,2024-04-17,CUST-739713,Sydney,Australia,1,149.39,0,149.39
+Webcam HD,Electronics,2025-06-01,CUST-337877,Melbourne,Australia,4,469.36,0,1877.44
+LED Desk Lamp,Electronics,2024-06-04,CUST-096481,Newcastle,Australia,5,526.45,0,2632.25
+Gaming Mouse Pad,Computing,2023-03-21,CUST-405583,Canberra,Australia,1,84.02,0,84.02
+Laptop Backpack,Computing,2024-11-11,CUST-375690,Perth,Australia,2,594.8,20,951.68
+Mechanical Keyboard,Electronics,2024-12-18,CUST-388707,Perth,Australia,3,30.29,20,72.7
+USB-C Charger,Accessories,2023-09-07,CUST-286822,Adelaide,Australia,5,325.17,20,1300.68
+Wireless Earbuds,Gaming,2023-05-10,CUST-223042,Gold Coast,Australia,4,433.2,0,1732.8
+Wireless Earbuds,Office,2025-01-08,CUST-593927,Brisbane,Australia,4,68.57,0,274.28
+Smartphone Case,Gaming,2024-12-25,CUST-108570,Sydney,Australia,1,175.13,10,157.62
+External Hard Drive,Accessories,2024-12-31,CUST-285352,Wollongong,Australia,4,30.45,0,121.8
+Gaming Keyboard,Gaming,2023-04-25,CUST-127177,Sydney,Australia,5,181.04,0,905.2
+Wireless Mouse,Accessories,2023-11-04,CUST-742973,Geelong,Australia,1,108.32,5,102.9
+USB-C Charger,Gaming,2024-01-16,CUST-470291,Adelaide,Australia,1,59.32,0,59.32
+Wireless Mouse,Computing,2025-03-22,CUST-790349,Hobart,Australia,4,409.78,5,1557.16
+Bluetooth Headphones,Office,2023-07-01,CUST-262788,Canberra,Australia,1,81.99,0,81.99
+Gaming Mouse Pad,Electronics,2024-06-18,CUST-569799,Geelong,Australia,5,30.13,10,135.59
+USB Hub,Accessories,2023-03-03,CUST-994397,Brisbane,Australia,5,302.08,0,1510.4
+LED Desk Lamp,Mobile,2024-11-16,CUST-110375,Hobart,Australia,4,226.08,5,859.1
+USB Hub,Gaming,2024-08-03,CUST-793103,Perth,Australia,4,230.15,20,736.48
+4K Monitor,Mobile,2024-10-14,CUST-124689,Geelong,Australia,4,537.97,5,2044.29
+Gaming Keyboard,Accessories,2023-06-12,CUST-603672,Townsville,Australia,1,19.86,20,15.89
+Wireless Earbuds,Mobile,2025-01-01,CUST-848057,Perth,Australia,3,363.58,0,1090.74
+Portable SSD,Accessories,2024-12-31,CUST-868531,Geelong,Australia,2,511.02,10,919.84
+Bluetooth Headphones,Computing,2023-05-27,CUST-536667,Brisbane,Australia,2,504.15,5,957.88
+USB-C Charger,Accessories,2024-06-07,CUST-219651,Adelaide,Australia,4,69.25,0,277.0
+Gaming Keyboard,Electronics,2024-07-23,CUST-537686,Perth,Australia,5,450.15,0,2250.75
+Laptop Backpack,Computing,2024-01-29,CUST-420769,Newcastle,Australia,5,535.57,0,2677.85
+Webcam HD,Electronics,2024-02-15,CUST-130934,Adelaide,Australia,1,588.89,15,500.56
+Wireless Mouse,Accessories,2023-07-02,CUST-564196,Brisbane,Australia,2,382.5,5,726.75
+Wireless Earbuds,Accessories,2025-05-15,CUST-268134,Geelong,Australia,4,253.7,15,862.58
+Fitness Tracker,Mobile,2024-05-01,CUST-502856,Brisbane,Australia,4,150.24,0,600.96
+Wireless Mouse,Gaming,2024-09-11,CUST-691405,Hobart,Australia,2,366.53,0,733.06
+Noise Cancelling Headphones,Gaming,2024-04-19,CUST-185664,Adelaide,Australia,2,79.54,0,159.08
+External Hard Drive,Office,2024-03-18,CUST-569632,Newcastle,Australia,3,295.99,10,799.17
+Gaming Mouse Pad,Gaming,2024-01-13,CUST-854043,Sydney,Australia,2,77.16,0,154.32
+USB Hub,Office,2024-02-01,CUST-244924,Wollongong,Australia,1,294.16,20,235.33
+Noise Cancelling Headphones,Electronics,2023-12-18,CUST-111135,Canberra,Australia,5,534.18,0,2670.9
+Mechanical Keyboard,Accessories,2025-05-27,CUST-564088,Townsville,Australia,5,575.08,15,2444.09
+Gaming Mouse Pad,Gaming,2023-08-20,CUST-837229,Townsville,Australia,3,292.79,0,878.37
+Portable SSD,Accessories,2023-11-14,CUST-900207,Gold Coast,Australia,5,165.31,5,785.22
+Gaming Mouse Pad,Computing,2024-02-22,CUST-038178,Melbourne,Australia,1,422.63,15,359.24
+Smartphone Case,Accessories,2025-02-16,CUST-372962,Hobart,Australia,4,280.33,10,1009.19
+LED Desk Lamp,Mobile,2025-02-22,CUST-555893,Melbourne,Australia,2,503.96,5,957.52
+External Hard Drive,Office,2023-12-10,CUST-062109,Gold Coast,Australia,1,112.97,0,112.97
+Mechanical Keyboard,Office,2024-06-02,CUST-833781,Townsville,Australia,1,111.06,10,99.95
+Gaming Keyboard,Gaming,2025-06-19,CUST-649236,Hobart,Australia,3,373.47,0,1120.41
+USB-C Charger,Electronics,2025-06-01,CUST-524091,Perth,Australia,5,269.94,0,1349.7
+LED Desk Lamp,Mobile,2025-05-04,CUST-777171,Melbourne,Australia,2,106.85,0,213.7
+Webcam HD,Gaming,2023-09-12,CUST-268705,Newcastle,Australia,1,327.44,15,278.32
+USB Hub,Accessories,2023-05-20,CUST-121932,Melbourne,Australia,3,34.44,5,98.15
+Bluetooth Headphones,Computing,2024-06-05,CUST-801627,Gold Coast,Australia,1,235.38,0,235.38
+Smartphone Case,Accessories,2023-02-15,CUST-951261,Brisbane,Australia,1,266.26,0,266.26
+LED Desk Lamp,Electronics,2024-05-30,CUST-915827,Adelaide,Australia,5,98.48,5,467.78
+LED Desk Lamp,Computing,2024-05-10,CUST-274739,Townsville,Australia,4,119.77,5,455.13
+Smartphone Case,Mobile,2025-04-12,CUST-447340,Perth,Australia,5,482.92,0,2414.6
+External Hard Drive,Gaming,2024-07-22,CUST-779578,Perth,Australia,1,553.09,10,497.78
+Smartwatch,Accessories,2023-11-28,CUST-920113,Wollongong,Australia,3,172.85,20,414.84
+USB-C Charger,Computing,2024-02-23,CUST-477388,Brisbane,Australia,4,334.1,0,1336.4
+USB Hub,Computing,2023-06-08,CUST-028623,Geelong,Australia,2,441.48,20,706.37
+Gaming Keyboard,Office,2023-08-20,CUST-666039,Perth,Australia,1,118.69,5,112.76
+Fitness Tracker,Electronics,2023-02-22,CUST-805440,Hobart,Australia,2,323.81,15,550.48
+Wireless Earbuds,Gaming,2024-08-23,CUST-883464,Sydney,Australia,5,365.22,0,1826.1
+Mechanical Keyboard,Electronics,2025-05-14,CUST-059000,Brisbane,Australia,2,492.8,10,887.04
+Laptop Stand,Electronics,2023-08-13,CUST-438157,Melbourne,Australia,2,458.34,0,916.68
+LED Desk Lamp,Computing,2024-07-20,CUST-850735,Melbourne,Australia,3,34.08,15,86.9
+Noise Cancelling Headphones,Mobile,2023-04-04,CUST-192589,Brisbane,Australia,3,195.72,20,469.73
+Tablet 10in,Computing,2025-03-30,CUST-767267,Wollongong,Australia,5,559.55,0,2797.75
+USB Hub,Electronics,2024-02-07,CUST-769334,Brisbane,Australia,5,294.72,0,1473.6
+Gaming Mouse Pad,Mobile,2024-06-30,CUST-789151,Geelong,Australia,3,422.78,0,1268.34
+4K Monitor,Electronics,2023-03-27,CUST-048640,Hobart,Australia,1,108.93,0,108.93
+Laptop Backpack,Mobile,2025-01-28,CUST-095796,Melbourne,Australia,5,584.29,0,2921.45
+Noise Cancelling Headphones,Computing,2024-11-18,CUST-417294,Brisbane,Australia,1,59.3,0,59.3
+Noise Cancelling Headphones,Accessories,2025-03-16,CUST-397331,Melbourne,Australia,4,85.27,0,341.08
+Wireless Mouse,Mobile,2025-02-23,CUST-383940,Wollongong,Australia,2,168.65,20,269.84
+Wireless Earbuds,Computing,2024-05-12,CUST-619032,Perth,Australia,4,186.91,10,672.88
+Smartwatch,Gaming,2024-02-03,CUST-877408,Geelong,Australia,3,45.09,15,114.98
+Fitness Tracker,Accessories,2024-12-12,CUST-873151,Brisbane,Australia,2,556.03,10,1000.85
+Fitness Tracker,Office,2024-08-24,CUST-655114,Hobart,Australia,3,258.61,5,737.04
+Bluetooth Headphones,Mobile,2024-05-11,CUST-896599,Townsville,Australia,4,599.44,5,2277.87
+Laptop Stand,Accessories,2024-05-26,CUST-490927,Gold Coast,Australia,1,189.11,10,170.2
+Tablet 10in,Accessories,2023-03-20,CUST-985139,Perth,Australia,1,104.1,15,88.48
+Fitness Tracker,Office,2024-11-06,CUST-291090,Hobart,Australia,1,136.14,15,115.72
+Mechanical Keyboard,Office,2024-06-12,CUST-639255,Brisbane,Australia,5,451.12,5,2142.82
+Wireless Mouse,Electronics,2024-07-01,CUST-078700,Newcastle,Australia,3,79.16,0,237.48
+Gaming Mouse Pad,Electronics,2024-02-01,CUST-807369,Brisbane,Australia,5,205.89,0,1029.45
+Gaming Mouse Pad,Mobile,2023-10-14,CUST-374942,Perth,Australia,5,102.99,20,411.96
+Wireless Mouse,Accessories,2024-06-27,CUST-645451,Sydney,Australia,4,441.03,0,1764.12
+Bluetooth Headphones,Computing,2024-09-14,CUST-273280,Newcastle,Australia,3,462.68,5,1318.64
+LED Desk Lamp,Accessories,2025-04-14,CUST-803812,Adelaide,Australia,1,29.58,15,25.14
+Portable SSD,Computing,2023-11-14,CUST-635642,Brisbane,Australia,1,547.98,10,493.18
+USB Hub,Office,2025-02-04,CUST-079771,Canberra,Australia,5,23.46,10,105.57
+Tablet 10in,Gaming,2024-08-02,CUST-347309,Perth,Australia,3,150.49,20,361.18
+Gaming Mouse Pad,Gaming,2023-03-14,CUST-816728,Brisbane,Australia,4,295.36,15,1004.22
+Portable SSD,Mobile,2023-07-07,CUST-945069,Canberra,Australia,3,307.01,20,736.82
+Bluetooth Headphones,Electronics,2025-06-11,CUST-063111,Perth,Australia,3,564.01,0,1692.03
+Portable SSD,Electronics,2023-02-05,CUST-826078,Brisbane,Australia,5,345.9,5,1643.02
+Laptop Stand,Gaming,2024-04-19,CUST-493218,Sydney,Australia,1,246.06,20,196.85
+4K Monitor,Gaming,2024-12-22,CUST-185646,Wollongong,Australia,2,102.65,10,184.77
+USB Hub,Computing,2024-07-17,CUST-717382,Newcastle,Australia,2,479.12,0,958.24
+Laptop Backpack,Office,2024-10-19,CUST-742565,Brisbane,Australia,4,345.88,5,1314.34
+Smartphone Case,Electronics,2024-12-27,CUST-457268,Melbourne,Australia,2,231.38,20,370.21
+Tablet 10in,Accessories,2024-08-11,CUST-559594,Canberra,Australia,4,108.86,0,435.44
+Tablet 10in,Mobile,2023-05-24,CUST-799482,Townsville,Australia,2,353.33,15,600.66
+USB-C Charger,Gaming,2025-01-07,CUST-871646,Wollongong,Australia,5,80.51,20,322.04
+Wireless Mouse,Office,2023-05-06,CUST-586937,Townsville,Australia,2,201.47,5,382.79
+Laptop Backpack,Accessories,2023-04-20,CUST-395044,Perth,Australia,3,159.16,15,405.86
+Laptop Stand,Electronics,2024-11-07,CUST-944126,Melbourne,Australia,5,418.14,15,1777.09
+Gaming Mouse Pad,Computing,2023-07-28,CUST-150238,Geelong,Australia,2,244.63,0,489.26
+Smartphone Case,Gaming,2023-09-12,CUST-654249,Canberra,Australia,5,160.29,15,681.23
+Mechanical Keyboard,Office,2023-06-27,CUST-591973,Hobart,Australia,2,48.34,0,96.68
+Webcam HD,Gaming,2023-01-11,CUST-967197,Adelaide,Australia,2,225.08,0,450.16
+Mechanical Keyboard,Electronics,2023-12-30,CUST-344826,Gold Coast,Australia,5,346.45,5,1645.64
+Mechanical Keyboard,Office,2023-06-26,CUST-647254,Hobart,Australia,2,115.74,20,185.18
+Webcam HD,Office,2024-10-07,CUST-939397,Sydney,Australia,4,157.76,0,631.04
+Gaming Mouse Pad,Mobile,2023-10-17,CUST-296073,Geelong,Australia,1,297.33,5,282.46
+External Hard Drive,Office,2023-01-17,CUST-253192,Canberra,Australia,4,443.81,0,1775.24
+Tablet 10in,Electronics,2023-07-11,CUST-212092,Gold Coast,Australia,3,206.42,0,619.26
+Noise Cancelling Headphones,Accessories,2025-05-27,CUST-323211,Geelong,Australia,2,333.14,0,666.28
+Mechanical Keyboard,Gaming,2024-11-17,CUST-097006,Sydney,Australia,4,408.17,10,1469.41
+Wireless Earbuds,Electronics,2025-01-13,CUST-745919,Brisbane,Australia,2,330.66,5,628.25
+Laptop Backpack,Mobile,2025-02-22,CUST-911065,Perth,Australia,1,279.5,5,265.52
+Gaming Mouse Pad,Mobile,2023-02-05,CUST-878570,Newcastle,Australia,2,267.44,5,508.14
+Portable SSD,Computing,2023-09-22,CUST-535463,Townsville,Australia,4,479.36,5,1821.57
+USB-C Charger,Gaming,2023-09-14,CUST-660064,Geelong,Australia,2,18.03,0,36.06
+4K Monitor,Accessories,2023-08-26,CUST-699777,Sydney,Australia,5,377.42,10,1698.39
+USB Hub,Office,2024-03-21,CUST-996155,Brisbane,Australia,5,69.6,0,348.0
+Fitness Tracker,Computing,2024-08-21,CUST-978999,Brisbane,Australia,3,415.0,0,1245.0
+4K Monitor,Electronics,2024-06-06,CUST-992334,Geelong,Australia,5,210.45,15,894.41
+Wireless Earbuds,Computing,2025-05-07,CUST-339889,Newcastle,Australia,3,360.93,0,1082.79
+Portable SSD,Mobile,2025-06-19,CUST-411468,Townsville,Australia,3,156.71,5,446.62
+Noise Cancelling Headphones,Office,2024-02-15,CUST-150145,Canberra,Australia,5,477.25,0,2386.25
+Fitness Tracker,Gaming,2024-04-17,CUST-254678,Canberra,Australia,5,359.28,0,1796.4
+Fitness Tracker,Office,2023-03-06,CUST-376967,Newcastle,Australia,5,364.51,0,1822.55
+USB-C Charger,Office,2024-11-07,CUST-316458,Hobart,Australia,5,323.67,0,1618.35
+Gaming Keyboard,Gaming,2023-06-23,CUST-965271,Townsville,Australia,3,110.89,0,332.67
+Smartwatch,Mobile,2023-11-07,CUST-478405,Geelong,Australia,3,127.78,0,383.34
+Gaming Keyboard,Accessories,2024-01-21,CUST-259532,Newcastle,Australia,5,149.18,5,708.61
+External Hard Drive,Electronics,2025-01-20,CUST-484658,Gold Coast,Australia,4,347.13,20,1110.82
+LED Desk Lamp,Accessories,2023-01-10,CUST-371226,Wollongong,Australia,2,177.18,5,336.64
+Wireless Mouse,Office,2023-01-12,CUST-766327,Canberra,Australia,1,495.6,0,495.6
+USB Hub,Gaming,2023-03-23,CUST-584348,Gold Coast,Australia,2,74.22,20,118.75
+Gaming Mouse Pad,Mobile,2024-02-25,CUST-892891,Brisbane,Australia,5,387.49,20,1549.96
+Fitness Tracker,Mobile,2023-09-12,CUST-401354,Perth,Australia,2,570.28,0,1140.56
+LED Desk Lamp,Gaming,2025-01-31,CUST-372735,Townsville,Australia,1,204.02,20,163.22
+Gaming Keyboard,Computing,2023-08-31,CUST-748865,Townsville,Australia,3,157.09,20,377.02
+Portable SSD,Mobile,2024-09-14,CUST-059708,Canberra,Australia,3,187.42,5,534.15
+Smartphone Case,Office,2023-07-09,CUST-992156,Canberra,Australia,1,147.62,20,118.1
+Smartphone Case,Gaming,2024-07-15,CUST-554331,Canberra,Australia,3,81.3,20,195.12
+Smartwatch,Computing,2023-10-26,CUST-688801,Sydney,Australia,5,416.31,20,1665.24
+Portable SSD,Mobile,2024-05-05,CUST-437707,Sydney,Australia,3,438.69,20,1052.86
+Mechanical Keyboard,Computing,2024-07-15,CUST-042053,Geelong,Australia,4,176.81,0,707.24
+Webcam HD,Electronics,2024-08-22,CUST-825607,Townsville,Australia,3,582.93,20,1399.03
+USB Hub,Accessories,2023-04-19,CUST-300755,Wollongong,Australia,4,461.9,20,1478.08
+Wireless Earbuds,Office,2023-11-14,CUST-661197,Hobart,Australia,3,422.19,10,1139.91
+Smartphone Case,Electronics,2023-07-15,CUST-039085,Geelong,Australia,4,542.34,20,1735.49
+USB-C Charger,Office,2024-01-12,CUST-406779,Newcastle,Australia,1,552.93,10,497.64
+LED Desk Lamp,Office,2024-04-07,CUST-580931,Perth,Australia,3,39.99,5,113.97
+Smartwatch,Gaming,2023-05-31,CUST-917168,Perth,Australia,4,87.64,0,350.56
+Laptop Stand,Computing,2024-11-28,CUST-024781,Geelong,Australia,3,587.47,0,1762.41
+Portable SSD,Office,2023-05-07,CUST-342285,Melbourne,Australia,3,579.82,10,1565.51
+Laptop Backpack,Office,2024-11-29,CUST-984239,Melbourne,Australia,3,343.43,0,1030.29
+Wireless Mouse,Office,2024-10-17,CUST-458140,Sydney,Australia,3,161.77,15,412.51
+Laptop Stand,Electronics,2025-04-09,CUST-039951,Sydney,Australia,1,119.33,20,95.46
+LED Desk Lamp,Mobile,2023-03-03,CUST-123109,Geelong,Australia,4,423.01,15,1438.23
+Gaming Mouse Pad,Gaming,2024-08-20,CUST-106836,Townsville,Australia,5,245.8,15,1044.65
+Noise Cancelling Headphones,Computing,2023-10-17,CUST-692152,Melbourne,Australia,2,59.7,15,101.49
+Gaming Keyboard,Mobile,2024-05-20,CUST-293388,Newcastle,Australia,4,228.03,15,775.3
+Laptop Stand,Accessories,2023-03-07,CUST-659266,Perth,Australia,2,535.23,5,1016.94
+LED Desk Lamp,Accessories,2025-01-25,CUST-551890,Newcastle,Australia,5,539.84,5,2564.24
+4K Monitor,Gaming,2023-02-09,CUST-897907,Geelong,Australia,5,572.56,0,2862.8
+Gaming Mouse Pad,Gaming,2023-11-15,CUST-822632,Townsville,Australia,1,322.24,0,322.24
+Smartphone Case,Computing,2024-01-20,CUST-791475,Hobart,Australia,2,117.0,15,198.9
+Wireless Earbuds,Gaming,2025-05-02,CUST-006764,Hobart,Australia,1,17.46,5,16.59
+Smartwatch,Gaming,2024-11-24,CUST-694860,Adelaide,Australia,3,152.43,20,365.83
+Gaming Keyboard,Electronics,2023-06-29,CUST-086367,Geelong,Australia,4,416.38,10,1498.97
+Wireless Earbuds,Electronics,2023-02-14,CUST-788923,Gold Coast,Australia,4,549.55,0,2198.2
+Wireless Mouse,Gaming,2024-07-08,CUST-201625,Adelaide,Australia,4,70.77,5,268.93
+Gaming Mouse Pad,Accessories,2023-09-16,CUST-967720,Canberra,Australia,4,135.27,10,486.97
+4K Monitor,Computing,2023-04-05,CUST-768930,Perth,Australia,1,300.27,0,300.27
+Fitness Tracker,Gaming,2024-10-03,CUST-548830,Perth,Australia,5,269.49,15,1145.33
+Portable SSD,Accessories,2024-01-20,CUST-050287,Perth,Australia,4,56.47,20,180.7
+Noise Cancelling Headphones,Accessories,2025-05-13,CUST-450153,Wollongong,Australia,4,90.26,0,361.04
+Wireless Earbuds,Accessories,2023-01-22,CUST-654779,Sydney,Australia,5,556.54,15,2365.29
+Gaming Keyboard,Electronics,2025-06-14,CUST-699063,Adelaide,Australia,1,294.42,15,250.26
+Noise Cancelling Headphones,Accessories,2025-05-06,CUST-158799,Melbourne,Australia,3,419.0,5,1194.15
+Bluetooth Headphones,Mobile,2024-11-27,CUST-303606,Wollongong,Australia,1,68.06,0,68.06
+Wireless Earbuds,Mobile,2024-11-01,CUST-294291,Brisbane,Australia,4,405.49,15,1378.67
+External Hard Drive,Electronics,2024-05-08,CUST-721029,Newcastle,Australia,1,161.8,5,153.71
+4K Monitor,Gaming,2023-07-04,CUST-013704,Melbourne,Australia,5,391.91,0,1959.55
+Noise Cancelling Headphones,Office,2025-01-11,CUST-483424,Geelong,Australia,3,564.09,10,1523.04
+Portable SSD,Mobile,2023-11-03,CUST-692275,Perth,Australia,4,42.57,5,161.77
+Wireless Earbuds,Mobile,2023-10-05,CUST-247431,Hobart,Australia,5,504.39,0,2521.95
+Smartwatch,Mobile,2024-08-30,CUST-787669,Wollongong,Australia,1,215.07,10,193.56
+Noise Cancelling Headphones,Mobile,2024-06-22,CUST-816923,Hobart,Australia,3,359.38,5,1024.23
+USB-C Charger,Office,2024-08-12,CUST-132001,Canberra,Australia,5,205.28,15,872.44
+Wireless Earbuds,Gaming,2023-06-17,CUST-899075,Hobart,Australia,1,171.14,5,162.58
+Laptop Backpack,Mobile,2023-10-02,CUST-502669,Townsville,Australia,2,442.62,0,885.24
+Laptop Backpack,Office,2025-01-16,CUST-959954,Sydney,Australia,2,260.79,0,521.58
+Fitness Tracker,Gaming,2023-04-18,CUST-907045,Wollongong,Australia,1,505.57,15,429.73
+Smartwatch,Gaming,2023-04-29,CUST-328761,Wollongong,Australia,4,399.93,15,1359.76
+Laptop Backpack,Electronics,2023-10-26,CUST-766750,Sydney,Australia,2,429.64,5,816.32
+Smartwatch,Mobile,2023-10-23,CUST-331819,Melbourne,Australia,4,174.05,0,696.2
+Bluetooth Headphones,Accessories,2024-09-11,CUST-374669,Adelaide,Australia,1,409.68,20,327.74
+Gaming Keyboard,Electronics,2025-06-07,CUST-319781,Sydney,Australia,1,356.18,10,320.56
+External Hard Drive,Office,2023-05-13,CUST-773775,Brisbane,Australia,4,117.37,0,469.48
+Gaming Mouse Pad,Electronics,2023-12-21,CUST-664392,Brisbane,Australia,5,74.18,20,296.72
+Webcam HD,Gaming,2024-08-18,CUST-336514,Hobart,Australia,2,544.51,20,871.22
+USB Hub,Office,2024-08-17,CUST-373192,Melbourne,Australia,1,494.53,0,494.53
+Laptop Stand,Gaming,2025-05-10,CUST-119799,Hobart,Australia,5,580.04,20,2320.16
+Bluetooth Headphones,Office,2023-01-07,CUST-795284,Wollongong,Australia,2,397.31,5,754.89
+External Hard Drive,Electronics,2025-01-16,CUST-499027,Sydney,Australia,4,253.53,0,1014.12
+Wireless Mouse,Mobile,2025-03-28,CUST-763537,Gold Coast,Australia,4,499.33,0,1997.32
+4K Monitor,Electronics,2023-07-17,CUST-105102,Brisbane,Australia,3,369.96,5,1054.39
+Portable SSD,Accessories,2023-01-08,CUST-525789,Sydney,Australia,1,75.1,15,63.83
+Smartwatch,Accessories,2023-11-14,CUST-487617,Brisbane,Australia,2,574.35,0,1148.7
+External Hard Drive,Gaming,2023-04-02,CUST-537388,Newcastle,Australia,4,454.35,15,1544.79
+Smartphone Case,Computing,2024-07-14,CUST-505792,Townsville,Australia,5,211.76,0,1058.8
+Smartwatch,Gaming,2025-03-21,CUST-391218,Melbourne,Australia,4,182.46,0,729.84
+Laptop Stand,Mobile,2023-09-24,CUST-012325,Wollongong,Australia,1,77.8,5,73.91
+Smartphone Case,Office,2023-10-24,CUST-129160,Perth,Australia,2,446.38,0,892.76
+Laptop Stand,Mobile,2024-03-02,CUST-347856,Gold Coast,Australia,5,563.71,5,2677.62
+Gaming Mouse Pad,Office,2024-04-10,CUST-832834,Adelaide,Australia,4,213.97,0,855.88
+LED Desk Lamp,Electronics,2024-09-15,CUST-317205,Melbourne,Australia,4,551.16,0,2204.64
+4K Monitor,Electronics,2023-03-21,CUST-132676,Townsville,Australia,3,397.97,0,1193.91
+USB-C Charger,Mobile,2024-07-27,CUST-686335,Townsville,Australia,2,439.0,20,702.4
+Gaming Mouse Pad,Accessories,2024-08-25,CUST-944380,Newcastle,Australia,1,210.78,15,179.16
+Laptop Backpack,Office,2025-03-12,CUST-169785,Brisbane,Australia,4,319.7,0,1278.8
+Gaming Mouse Pad,Gaming,2025-01-31,CUST-874110,Adelaide,Australia,2,157.91,0,315.82
+Mechanical Keyboard,Electronics,2023-12-30,CUST-600378,Perth,Australia,2,93.12,0,186.24
+External Hard Drive,Computing,2025-06-17,CUST-453713,Brisbane,Australia,5,402.24,0,2011.2
+Wireless Mouse,Gaming,2023-07-27,CUST-298099,Melbourne,Australia,2,331.07,0,662.14
+Bluetooth Headphones,Computing,2024-07-14,CUST-334430,Brisbane,Australia,1,497.98,20,398.38
+4K Monitor,Gaming,2023-02-13,CUST-458821,Sydney,Australia,1,152.69,0,152.69
+Smartwatch,Mobile,2023-10-05,CUST-882308,Sydney,Australia,4,515.36,5,1958.37
+Laptop Backpack,Electronics,2024-06-17,CUST-996284,Brisbane,Australia,4,573.59,10,2064.92
+Gaming Mouse Pad,Mobile,2025-02-28,CUST-990689,Sydney,Australia,3,421.93,10,1139.21
+Smartphone Case,Computing,2024-03-20,CUST-979505,Gold Coast,Australia,4,291.07,0,1164.28
+Gaming Mouse Pad,Mobile,2024-11-20,CUST-651744,Brisbane,Australia,1,130.08,10,117.07
+Webcam HD,Electronics,2023-05-06,CUST-923201,Townsville,Australia,3,555.25,15,1415.89
+Wireless Earbuds,Electronics,2024-09-24,CUST-072608,Wollongong,Australia,3,180.97,0,542.91
+Wireless Earbuds,Mobile,2024-01-11,CUST-238558,Newcastle,Australia,2,155.0,0,310.0
+Wireless Mouse,Computing,2023-11-02,CUST-228193,Geelong,Australia,4,70.73,15,240.48
+Fitness Tracker,Computing,2023-02-20,CUST-145243,Wollongong,Australia,4,554.27,5,2106.23
+Webcam HD,Mobile,2023-06-17,CUST-857865,Geelong,Australia,2,471.56,5,895.96
+Portable SSD,Office,2024-05-08,CUST-655828,Townsville,Australia,2,78.68,5,149.49
+USB-C Charger,Gaming,2025-05-05,CUST-404299,Sydney,Australia,2,132.35,0,264.7
+Gaming Keyboard,Accessories,2023-04-21,CUST-198153,Canberra,Australia,5,16.17,10,72.77
+Wireless Earbuds,Computing,2025-02-13,CUST-767594,Townsville,Australia,5,85.43,0,427.15
+Webcam HD,Computing,2024-03-12,CUST-504969,Townsville,Australia,1,223.68,0,223.68
+Mechanical Keyboard,Electronics,2025-04-27,CUST-605115,Melbourne,Australia,5,465.4,0,2327.0
+Noise Cancelling Headphones,Electronics,2024-08-13,CUST-410447,Hobart,Australia,3,442.94,5,1262.38
+Wireless Mouse,Accessories,2023-01-29,CUST-398565,Brisbane,Australia,3,467.14,20,1121.14
+Mechanical Keyboard,Gaming,2023-01-18,CUST-292042,Newcastle,Australia,4,279.91,5,1063.66
+Wireless Earbuds,Gaming,2025-05-29,CUST-112575,Townsville,Australia,2,316.05,10,568.89
+Smartwatch,Office,2025-04-28,CUST-089757,Newcastle,Australia,3,525.84,15,1340.89
+LED Desk Lamp,Computing,2024-05-06,CUST-141853,Sydney,Australia,4,342.39,0,1369.56
+Laptop Stand,Gaming,2023-07-15,CUST-915624,Canberra,Australia,2,143.62,5,272.88
+Gaming Mouse Pad,Office,2023-02-10,CUST-195489,Wollongong,Australia,4,550.01,20,1760.03
+Webcam HD,Mobile,2024-02-19,CUST-601283,Sydney,Australia,1,153.11,20,122.49
+Tablet 10in,Mobile,2023-10-01,CUST-122571,Hobart,Australia,1,284.35,0,284.35
+Wireless Earbuds,Accessories,2024-08-12,CUST-535929,Geelong,Australia,2,455.04,10,819.07
+Smartphone Case,Computing,2023-12-13,CUST-132059,Wollongong,Australia,2,53.43,15,90.83
+Portable SSD,Office,2025-05-20,CUST-046015,Brisbane,Australia,3,144.32,0,432.96
+Laptop Stand,Office,2024-09-02,CUST-959780,Brisbane,Australia,5,138.37,10,622.67
+Noise Cancelling Headphones,Gaming,2024-01-05,CUST-482490,Adelaide,Australia,4,385.94,0,1543.76
+Mechanical Keyboard,Gaming,2024-03-17,CUST-206263,Hobart,Australia,1,505.02,5,479.77
+Noise Cancelling Headphones,Electronics,2023-02-05,CUST-017375,Gold Coast,Australia,3,22.18,5,63.21
+Gaming Mouse Pad,Office,2023-04-18,CUST-095804,Canberra,Australia,2,22.57,15,38.37
+Smartphone Case,Computing,2025-05-06,CUST-454380,Sydney,Australia,4,158.79,10,571.64
+Wireless Mouse,Electronics,2023-04-22,CUST-489498,Canberra,Australia,5,99.23,20,396.92
+Wireless Earbuds,Accessories,2024-11-28,CUST-434111,Melbourne,Australia,5,377.93,0,1889.65
+Fitness Tracker,Accessories,2023-03-25,CUST-002069,Brisbane,Australia,4,256.86,0,1027.44
+Smartphone Case,Gaming,2024-06-21,CUST-977769,Brisbane,Australia,4,43.41,0,173.64
+Gaming Keyboard,Accessories,2023-12-14,CUST-055467,Wollongong,Australia,3,463.75,15,1182.56
+Smartphone Case,Electronics,2023-02-07,CUST-252499,Brisbane,Australia,3,36.63,0,109.89
+Tablet 10in,Accessories,2023-03-09,CUST-536258,Canberra,Australia,2,136.87,0,273.74
+USB-C Charger,Accessories,2024-11-14,CUST-021524,Adelaide,Australia,3,507.49,0,1522.47
+Mechanical Keyboard,Computing,2023-07-31,CUST-552106,Newcastle,Australia,3,247.0,20,592.8
+Noise Cancelling Headphones,Office,2024-02-08,CUST-765746,Gold Coast,Australia,1,530.3,0,530.3
+USB-C Charger,Electronics,2023-08-09,CUST-168294,Townsville,Australia,1,432.18,10,388.96
+Wireless Mouse,Computing,2023-12-12,CUST-693176,Geelong,Australia,2,352.76,5,670.24
+Wireless Mouse,Electronics,2023-06-06,CUST-320181,Geelong,Australia,1,332.43,0,332.43
+External Hard Drive,Gaming,2023-05-16,CUST-267659,Perth,Australia,3,378.47,0,1135.41
+External Hard Drive,Electronics,2025-02-17,CUST-957275,Brisbane,Australia,2,115.7,0,231.4
+Fitness Tracker,Office,2024-11-23,CUST-469292,Townsville,Australia,4,325.14,5,1235.53
+Smartphone Case,Gaming,2023-12-19,CUST-102079,Newcastle,Australia,5,67.29,0,336.45
+Bluetooth Headphones,Mobile,2023-03-21,CUST-361989,Sydney,Australia,3,333.05,0,999.15
+External Hard Drive,Accessories,2023-07-21,CUST-918695,Canberra,Australia,2,566.89,0,1133.78
+USB-C Charger,Computing,2024-01-02,CUST-363574,Newcastle,Australia,1,434.17,0,434.17
+Noise Cancelling Headphones,Mobile,2023-08-08,CUST-930376,Hobart,Australia,5,75.81,10,341.15
+Laptop Backpack,Accessories,2024-04-27,CUST-531494,Brisbane,Australia,5,64.77,10,291.46
+Webcam HD,Office,2023-10-22,CUST-384170,Sydney,Australia,5,519.17,0,2595.85
+Mechanical Keyboard,Gaming,2023-12-07,CUST-669727,Adelaide,Australia,3,108.98,0,326.94
+Bluetooth Headphones,Accessories,2025-02-14,CUST-522773,Geelong,Australia,3,592.34,20,1421.62
+Fitness Tracker,Computing,2025-02-17,CUST-501292,Geelong,Australia,3,105.07,10,283.69
+Laptop Backpack,Gaming,2023-09-08,CUST-143610,Wollongong,Australia,2,120.81,10,217.46
+Gaming Keyboard,Accessories,2023-06-17,CUST-579851,Melbourne,Australia,5,79.6,0,398.0
+Gaming Keyboard,Gaming,2024-08-02,CUST-922444,Geelong,Australia,5,254.48,10,1145.16
+Smartwatch,Computing,2023-05-29,CUST-057493,Townsville,Australia,1,369.06,5,350.61
+4K Monitor,Computing,2025-02-13,CUST-514058,Newcastle,Australia,1,316.03,10,284.43
+Portable SSD,Electronics,2024-06-28,CUST-256450,Gold Coast,Australia,5,493.05,15,2095.46
+USB Hub,Electronics,2023-03-19,CUST-523062,Brisbane,Australia,2,60.03,0,120.06
+Portable SSD,Accessories,2023-06-07,CUST-086452,Townsville,Australia,4,242.56,20,776.19
+Noise Cancelling Headphones,Computing,2024-09-06,CUST-921928,Wollongong,Australia,4,436.58,0,1746.32
+Gaming Keyboard,Gaming,2025-04-06,CUST-847783,Melbourne,Australia,1,132.29,0,132.29
+Noise Cancelling Headphones,Computing,2024-09-21,CUST-450316,Canberra,Australia,3,387.12,20,929.09
+Laptop Backpack,Accessories,2023-02-11,CUST-381440,Wollongong,Australia,3,189.48,10,511.6
+Wireless Earbuds,Mobile,2023-04-26,CUST-977212,Gold Coast,Australia,3,431.67,0,1295.01
+LED Desk Lamp,Electronics,2024-12-07,CUST-306079,Gold Coast,Australia,2,301.3,20,482.08
+Tablet 10in,Gaming,2023-04-14,CUST-074437,Brisbane,Australia,4,262.26,0,1049.04
+LED Desk Lamp,Accessories,2023-06-16,CUST-163630,Wollongong,Australia,2,549.05,10,988.29
+External Hard Drive,Office,2024-06-10,CUST-862638,Townsville,Australia,4,331.77,0,1327.08
+Bluetooth Headphones,Accessories,2024-09-12,CUST-524192,Adelaide,Australia,1,494.48,15,420.31
+USB-C Charger,Computing,2023-08-10,CUST-517167,Gold Coast,Australia,2,503.53,15,856.0
+Smartphone Case,Office,2023-03-01,CUST-694266,Hobart,Australia,2,47.12,10,84.82
+Smartwatch,Mobile,2024-03-07,CUST-920564,Townsville,Australia,1,535.07,20,428.06
+Gaming Mouse Pad,Office,2024-02-02,CUST-141283,Newcastle,Australia,2,25.71,0,51.42
+Portable SSD,Electronics,2023-01-13,CUST-886574,Brisbane,Australia,2,418.51,15,711.47
+Bluetooth Headphones,Electronics,2023-07-27,CUST-463671,Gold Coast,Australia,4,313.86,0,1255.44
+Wireless Mouse,Accessories,2025-04-26,CUST-308510,Melbourne,Australia,3,488.77,15,1246.36
+Gaming Mouse Pad,Accessories,2023-10-24,CUST-195832,Townsville,Australia,2,33.23,5,63.14
+External Hard Drive,Electronics,2024-12-24,CUST-457811,Brisbane,Australia,2,188.05,15,319.69
+Smartwatch,Accessories,2023-01-03,CUST-129442,Newcastle,Australia,3,327.97,0,983.91
+Laptop Stand,Office,2023-09-04,CUST-947219,Townsville,Australia,3,353.46,15,901.32
+Mechanical Keyboard,Office,2024-09-29,CUST-954499,Sydney,Australia,5,162.67,0,813.35
+Fitness Tracker,Mobile,2024-12-08,CUST-543844,Newcastle,Australia,3,315.66,0,946.98
+LED Desk Lamp,Gaming,2023-01-04,CUST-751881,Hobart,Australia,3,414.45,15,1056.85
+Bluetooth Headphones,Mobile,2024-08-04,CUST-402035,Hobart,Australia,1,393.23,5,373.57
+Fitness Tracker,Mobile,2024-08-30,CUST-787077,Adelaide,Australia,5,454.36,0,2271.8
+USB Hub,Gaming,2025-04-03,CUST-776215,Sydney,Australia,2,156.74,0,313.48
+Gaming Mouse Pad,Office,2023-11-18,CUST-101891,Townsville,Australia,3,425.86,15,1085.94
+External Hard Drive,Office,2023-01-07,CUST-031367,Hobart,Australia,1,269.24,20,215.39
+Gaming Keyboard,Office,2024-12-13,CUST-925350,Sydney,Australia,3,59.36,0,178.08
+Portable SSD,Electronics,2024-02-08,CUST-651018,Geelong,Australia,4,386.58,5,1469.0
+External Hard Drive,Electronics,2025-04-27,CUST-794011,Sydney,Australia,3,276.48,10,746.5
+Webcam HD,Mobile,2024-03-14,CUST-647935,Sydney,Australia,3,133.48,0,400.44
+Tablet 10in,Accessories,2025-01-06,CUST-239027,Perth,Australia,2,561.89,20,899.02
+Wireless Mouse,Office,2024-03-24,CUST-873341,Sydney,Australia,1,537.5,15,456.88
+Noise Cancelling Headphones,Gaming,2024-12-07,CUST-757470,Wollongong,Australia,1,52.4,15,44.54
+Portable SSD,Accessories,2023-08-29,CUST-201422,Canberra,Australia,4,200.17,0,800.68
+Noise Cancelling Headphones,Computing,2024-08-07,CUST-602346,Sydney,Australia,4,77.97,15,265.1
+Smartphone Case,Electronics,2024-12-08,CUST-195084,Newcastle,Australia,3,56.64,15,144.43
+USB-C Charger,Accessories,2024-04-15,CUST-719100,Melbourne,Australia,2,549.04,0,1098.08
+USB Hub,Office,2023-05-22,CUST-619966,Adelaide,Australia,5,124.67,20,498.68
+Laptop Backpack,Electronics,2024-11-09,CUST-622067,Melbourne,Australia,3,467.44,5,1332.2
+External Hard Drive,Mobile,2023-02-17,CUST-419555,Townsville,Australia,2,347.23,20,555.57
+Wireless Earbuds,Mobile,2024-02-17,CUST-752052,Brisbane,Australia,2,167.9,0,335.8
+Webcam HD,Accessories,2023-12-04,CUST-646917,Townsville,Australia,4,395.49,10,1423.76
+4K Monitor,Mobile,2024-09-23,CUST-536448,Perth,Australia,3,125.01,5,356.28
+Fitness Tracker,Accessories,2023-04-28,CUST-976786,Townsville,Australia,4,382.79,0,1531.16
+Gaming Keyboard,Office,2024-09-19,CUST-894860,Townsville,Australia,2,480.29,10,864.52
+Smartphone Case,Gaming,2024-10-23,CUST-745636,Sydney,Australia,2,478.41,20,765.46
+LED Desk Lamp,Computing,2023-03-10,CUST-850132,Wollongong,Australia,4,472.08,5,1793.9
+Laptop Backpack,Computing,2023-03-22,CUST-921971,Townsville,Australia,5,83.7,5,397.57
+Wireless Mouse,Computing,2025-01-11,CUST-327151,Townsville,Australia,1,546.98,15,464.93
+USB Hub,Mobile,2024-01-14,CUST-256366,Townsville,Australia,1,367.14,0,367.14
+Gaming Keyboard,Electronics,2025-04-14,CUST-108856,Gold Coast,Australia,5,285.01,20,1140.04
+Tablet 10in,Office,2024-07-05,CUST-220925,Sydney,Australia,2,481.66,0,963.32
+Noise Cancelling Headphones,Mobile,2023-11-15,CUST-152669,Sydney,Australia,5,23.81,0,119.05
+Fitness Tracker,Gaming,2025-05-12,CUST-859498,Adelaide,Australia,4,583.12,15,1982.61
+Fitness Tracker,Mobile,2023-10-25,CUST-043893,Canberra,Australia,3,412.44,20,989.86
+Portable SSD,Office,2023-11-12,CUST-675816,Melbourne,Australia,1,200.54,0,200.54
+Noise Cancelling Headphones,Electronics,2025-01-29,CUST-144227,Perth,Australia,5,129.48,20,517.92
+Portable SSD,Office,2024-01-10,CUST-651531,Newcastle,Australia,4,140.89,20,450.85
+External Hard Drive,Electronics,2023-06-29,CUST-453855,Gold Coast,Australia,2,314.75,0,629.5
+Laptop Stand,Computing,2023-01-10,CUST-920677,Geelong,Australia,3,124.31,0,372.93
+Mechanical Keyboard,Office,2023-10-21,CUST-008143,Melbourne,Australia,4,464.61,0,1858.44
+Noise Cancelling Headphones,Office,2025-04-28,CUST-592111,Gold Coast,Australia,1,123.58,10,111.22
+Laptop Backpack,Computing,2023-10-04,CUST-507436,Brisbane,Australia,5,351.81,5,1671.1
+USB Hub,Computing,2025-03-23,CUST-923715,Wollongong,Australia,4,543.73,20,1739.94
+Gaming Keyboard,Electronics,2025-01-05,CUST-425142,Gold Coast,Australia,2,37.42,0,74.84
+Wireless Earbuds,Electronics,2024-01-06,CUST-814137,Sydney,Australia,3,162.94,0,488.82
+USB Hub,Mobile,2024-03-31,CUST-324893,Geelong,Australia,2,344.14,0,688.28
+USB-C Charger,Computing,2024-02-01,CUST-099634,Geelong,Australia,1,267.75,0,267.75
+Mechanical Keyboard,Office,2023-05-31,CUST-538092,Sydney,Australia,1,461.12,0,461.12
+Smartphone Case,Electronics,2025-01-10,CUST-521752,Melbourne,Australia,1,341.49,5,324.42
+Tablet 10in,Gaming,2023-05-17,CUST-749180,Melbourne,Australia,1,566.53,20,453.22
+Gaming Keyboard,Gaming,2023-03-16,CUST-051680,Sydney,Australia,3,442.47,15,1128.3
+Laptop Backpack,Office,2024-06-21,CUST-274121,Townsville,Australia,4,77.92,0,311.68
+Mechanical Keyboard,Computing,2024-12-18,CUST-548516,Gold Coast,Australia,5,225.8,5,1072.55
+Laptop Backpack,Gaming,2024-12-03,CUST-540421,Melbourne,Australia,2,112.28,20,179.65
+USB Hub,Electronics,2023-05-28,CUST-785454,Hobart,Australia,5,532.54,15,2263.29
+Noise Cancelling Headphones,Electronics,2023-08-03,CUST-524781,Canberra,Australia,1,65.93,10,59.34
+LED Desk Lamp,Gaming,2023-08-27,CUST-940804,Townsville,Australia,1,96.04,10,86.44
+External Hard Drive,Office,2023-04-10,CUST-544083,Wollongong,Australia,2,277.4,10,499.32
+Laptop Backpack,Mobile,2025-03-09,CUST-838084,Newcastle,Australia,4,297.6,0,1190.4
+Wireless Earbuds,Gaming,2023-12-19,CUST-029666,Geelong,Australia,1,578.0,0,578.0
+Smartphone Case,Office,2024-06-10,CUST-891413,Gold Coast,Australia,2,383.42,20,613.47
+Laptop Stand,Office,2023-06-29,CUST-441347,Sydney,Australia,3,413.32,0,1239.96
+Smartphone Case,Computing,2024-11-07,CUST-780415,Canberra,Australia,2,533.6,0,1067.2
+Webcam HD,Gaming,2024-04-17,CUST-007869,Sydney,Australia,2,132.82,5,252.36
+Wireless Mouse,Gaming,2024-05-05,CUST-351014,Townsville,Australia,3,531.77,10,1435.78
+Portable SSD,Computing,2025-03-08,CUST-904852,Adelaide,Australia,1,28.24,0,28.24
+Wireless Mouse,Electronics,2024-04-10,CUST-018989,Townsville,Australia,4,299.84,5,1139.39
+Gaming Keyboard,Gaming,2024-03-17,CUST-017828,Sydney,Australia,5,410.59,0,2052.95
+LED Desk Lamp,Office,2025-04-16,CUST-471092,Hobart,Australia,3,547.65,10,1478.65
+Portable SSD,Accessories,2024-09-06,CUST-410708,Wollongong,Australia,4,203.87,20,652.38
+Mechanical Keyboard,Mobile,2024-10-31,CUST-309948,Canberra,Australia,3,532.97,10,1439.02
+USB-C Charger,Gaming,2024-02-16,CUST-481450,Wollongong,Australia,3,46.97,0,140.91
+LED Desk Lamp,Mobile,2023-07-01,CUST-568560,Canberra,Australia,1,222.89,10,200.6
+Bluetooth Headphones,Gaming,2024-03-02,CUST-092858,Perth,Australia,3,535.37,0,1606.11
+LED Desk Lamp,Accessories,2023-04-29,CUST-424958,Geelong,Australia,1,496.77,15,422.25
+Smartphone Case,Accessories,2025-02-14,CUST-155754,Adelaide,Australia,3,278.35,0,835.05
+Noise Cancelling Headphones,Computing,2024-12-02,CUST-664147,Wollongong,Australia,2,596.27,0,1192.54
+Gaming Mouse Pad,Mobile,2024-12-02,CUST-351970,Gold Coast,Australia,1,245.08,20,196.06
+Smartwatch,Office,2024-05-12,CUST-988914,Canberra,Australia,1,113.68,0,113.68
+Mechanical Keyboard,Electronics,2024-12-14,CUST-108134,Geelong,Australia,2,261.19,0,522.38
+Tablet 10in,Gaming,2023-09-20,CUST-477085,Perth,Australia,2,44.94,15,76.4
+Smartphone Case,Mobile,2024-07-13,CUST-957260,Townsville,Australia,1,212.75,20,170.2
+Mechanical Keyboard,Accessories,2024-10-20,CUST-138372,Perth,Australia,1,269.45,0,269.45
+Gaming Mouse Pad,Computing,2024-04-21,CUST-746776,Gold Coast,Australia,3,421.47,0,1264.41
+LED Desk Lamp,Office,2023-06-19,CUST-015499,Newcastle,Australia,2,462.67,20,740.27
+USB-C Charger,Office,2023-02-17,CUST-052814,Geelong,Australia,5,474.59,20,1898.36
+Smartphone Case,Computing,2023-04-04,CUST-260762,Brisbane,Australia,3,375.91,10,1014.96
+Mechanical Keyboard,Gaming,2023-06-09,CUST-537057,Geelong,Australia,1,93.33,0,93.33
+Portable SSD,Mobile,2023-03-13,CUST-803651,Hobart,Australia,3,392.98,20,943.15
+Bluetooth Headphones,Office,2024-03-09,CUST-783003,Adelaide,Australia,1,389.82,10,350.84
+Smartwatch,Computing,2023-11-28,CUST-866950,Perth,Australia,2,484.01,10,871.22
+External Hard Drive,Mobile,2024-06-29,CUST-989410,Adelaide,Australia,1,522.79,0,522.79
+Portable SSD,Office,2024-07-14,CUST-360571,Gold Coast,Australia,5,100.11,0,500.55
+USB Hub,Mobile,2025-04-15,CUST-278999,Adelaide,Australia,5,172.65,10,776.93
+Portable SSD,Accessories,2025-01-12,CUST-564896,Geelong,Australia,1,541.47,0,541.47
+Noise Cancelling Headphones,Mobile,2023-08-16,CUST-307450,Gold Coast,Australia,1,217.45,15,184.83
+Portable SSD,Gaming,2023-03-28,CUST-225068,Brisbane,Australia,5,427.32,0,2136.6
+Fitness Tracker,Accessories,2023-07-21,CUST-652491,Brisbane,Australia,3,107.03,0,321.09
+Bluetooth Headphones,Office,2023-12-19,CUST-143368,Gold Coast,Australia,5,254.25,0,1271.25
+Fitness Tracker,Office,2023-01-07,CUST-079326,Perth,Australia,5,278.38,5,1322.31
+Noise Cancelling Headphones,Electronics,2024-08-08,CUST-399934,Townsville,Australia,5,18.13,5,86.12
+Noise Cancelling Headphones,Mobile,2023-02-03,CUST-888150,Perth,Australia,1,442.04,15,375.73
+4K Monitor,Office,2023-03-27,CUST-341734,Gold Coast,Australia,4,404.34,0,1617.36
+Portable SSD,Computing,2023-06-01,CUST-130617,Canberra,Australia,5,416.05,20,1664.2
+USB Hub,Computing,2025-05-02,CUST-808793,Geelong,Australia,2,336.51,0,673.02
+Laptop Stand,Computing,2023-11-22,CUST-222951,Melbourne,Australia,2,55.78,15,94.83
+Bluetooth Headphones,Accessories,2025-02-01,CUST-348480,Brisbane,Australia,2,580.36,0,1160.72
+External Hard Drive,Mobile,2024-08-03,CUST-443394,Gold Coast,Australia,1,41.52,0,41.52
+LED Desk Lamp,Electronics,2025-05-28,CUST-918000,Townsville,Australia,1,20.62,20,16.5
+Noise Cancelling Headphones,Computing,2024-01-11,CUST-594474,Geelong,Australia,1,288.41,5,273.99
+Gaming Mouse Pad,Office,2025-06-04,CUST-743503,Gold Coast,Australia,1,401.36,5,381.29
+Tablet 10in,Gaming,2024-04-06,CUST-036986,Brisbane,Australia,5,234.97,0,1174.85
+Wireless Mouse,Accessories,2024-12-30,CUST-360813,Wollongong,Australia,2,322.33,0,644.66
+Fitness Tracker,Accessories,2025-05-11,CUST-060775,Hobart,Australia,3,128.36,0,385.08
+Wireless Earbuds,Office,2023-10-23,CUST-067130,Gold Coast,Australia,3,256.42,0,769.26
+Laptop Stand,Mobile,2025-05-27,CUST-395453,Geelong,Australia,5,210.43,0,1052.15
+External Hard Drive,Computing,2024-06-16,CUST-026509,Perth,Australia,1,215.07,0,215.07
+Fitness Tracker,Accessories,2023-05-22,CUST-072323,Sydney,Australia,4,206.5,0,826.0
+Mechanical Keyboard,Mobile,2023-07-28,CUST-555545,Newcastle,Australia,1,578.93,0,578.93
+Tablet 10in,Mobile,2024-09-09,CUST-985262,Adelaide,Australia,4,509.59,10,1834.52
+4K Monitor,Computing,2023-06-05,CUST-116550,Sydney,Australia,5,532.08,10,2394.36
+Webcam HD,Office,2025-06-14,CUST-744230,Wollongong,Australia,1,520.91,5,494.86
+Gaming Keyboard,Mobile,2024-02-29,CUST-511712,Brisbane,Australia,1,423.39,15,359.88
+Laptop Backpack,Mobile,2025-03-11,CUST-903385,Gold Coast,Australia,4,174.16,20,557.31
+Fitness Tracker,Accessories,2023-05-26,CUST-952106,Perth,Australia,5,134.78,20,539.12
+Wireless Mouse,Electronics,2023-08-07,CUST-366769,Newcastle,Australia,5,15.35,15,65.24
+Smartwatch,Mobile,2024-12-28,CUST-985648,Townsville,Australia,1,263.04,0,263.04
+4K Monitor,Computing,2023-08-04,CUST-180678,Geelong,Australia,5,95.77,0,478.85
+Gaming Mouse Pad,Gaming,2024-01-29,CUST-863449,Newcastle,Australia,2,223.23,15,379.49
+Noise Cancelling Headphones,Mobile,2025-04-28,CUST-551229,Canberra,Australia,1,147.07,15,125.01
+USB-C Charger,Accessories,2023-12-31,CUST-756033,Wollongong,Australia,4,407.92,20,1305.34
+Wireless Earbuds,Office,2025-02-18,CUST-964724,Canberra,Australia,3,519.01,0,1557.03
+External Hard Drive,Mobile,2023-06-07,CUST-261384,Melbourne,Australia,2,512.9,5,974.51
+Bluetooth Headphones,Gaming,2023-05-08,CUST-874445,Hobart,Australia,2,357.97,0,715.94
+Tablet 10in,Accessories,2024-04-02,CUST-600968,Melbourne,Australia,5,22.36,0,111.8
+Noise Cancelling Headphones,Accessories,2023-11-21,CUST-100976,Melbourne,Australia,5,201.36,15,855.78
+External Hard Drive,Accessories,2024-05-24,CUST-566888,Canberra,Australia,1,461.04,10,414.94
+Noise Cancelling Headphones,Accessories,2023-06-04,CUST-526140,Melbourne,Australia,5,485.65,0,2428.25
+USB-C Charger,Office,2024-05-12,CUST-223496,Adelaide,Australia,3,260.78,5,743.22
+Wireless Earbuds,Mobile,2024-07-04,CUST-943500,Melbourne,Australia,1,324.36,20,259.49
+Wireless Earbuds,Computing,2024-02-16,CUST-412796,Adelaide,Australia,4,466.65,15,1586.61
+Gaming Keyboard,Office,2023-02-03,CUST-569893,Wollongong,Australia,1,169.61,10,152.65
+Portable SSD,Gaming,2023-01-06,CUST-342438,Perth,Australia,5,436.49,20,1745.96
+4K Monitor,Computing,2024-07-31,CUST-282494,Geelong,Australia,3,325.79,0,977.37
+Wireless Earbuds,Office,2024-03-31,CUST-871968,Wollongong,Australia,4,475.03,0,1900.12
+Smartwatch,Office,2023-03-08,CUST-526386,Adelaide,Australia,3,220.99,5,629.82
+Smartwatch,Accessories,2023-12-06,CUST-355747,Melbourne,Australia,3,255.94,10,691.04
+Wireless Mouse,Mobile,2024-10-30,CUST-151009,Geelong,Australia,2,26.58,15,45.19
+Portable SSD,Accessories,2025-05-14,CUST-823881,Brisbane,Australia,1,498.11,15,423.39
+Gaming Mouse Pad,Office,2023-11-23,CUST-671626,Melbourne,Australia,1,494.95,0,494.95
+Bluetooth Headphones,Computing,2023-03-30,CUST-199403,Melbourne,Australia,3,353.49,15,901.4
+Fitness Tracker,Electronics,2025-02-20,CUST-630047,Newcastle,Australia,1,147.54,10,132.79
+Gaming Mouse Pad,Accessories,2023-08-20,CUST-434320,Brisbane,Australia,5,316.49,15,1345.08
+Mechanical Keyboard,Office,2023-12-12,CUST-119843,Hobart,Australia,3,432.6,10,1168.02
+Gaming Mouse Pad,Computing,2024-07-12,CUST-253689,Geelong,Australia,2,288.97,20,462.35
+Laptop Stand,Mobile,2024-01-26,CUST-449478,Wollongong,Australia,5,383.49,20,1533.96
+Smartwatch,Gaming,2023-06-10,CUST-412791,Townsville,Australia,3,506.53,10,1367.63
+Gaming Mouse Pad,Accessories,2024-04-20,CUST-384025,Canberra,Australia,1,33.15,0,33.15
+Gaming Keyboard,Office,2024-03-17,CUST-507169,Townsville,Australia,2,566.5,10,1019.7
+Mechanical Keyboard,Electronics,2024-01-31,CUST-127921,Wollongong,Australia,3,336.34,15,857.67
+Wireless Earbuds,Electronics,2023-12-09,CUST-246974,Adelaide,Australia,3,566.79,0,1700.37
+Gaming Keyboard,Office,2025-01-20,CUST-610852,Brisbane,Australia,3,221.59,5,631.53
+Webcam HD,Office,2024-06-07,CUST-484938,Canberra,Australia,2,511.36,5,971.58
+Gaming Keyboard,Computing,2024-03-09,CUST-700204,Sydney,Australia,3,413.16,15,1053.56
+Wireless Earbuds,Electronics,2023-07-11,CUST-871669,Newcastle,Australia,3,437.82,0,1313.46
+Fitness Tracker,Office,2024-01-09,CUST-204654,Sydney,Australia,4,394.64,0,1578.56
+Gaming Keyboard,Electronics,2023-11-17,CUST-504622,Brisbane,Australia,4,572.83,0,2291.32
+4K Monitor,Office,2024-05-17,CUST-739204,Newcastle,Australia,5,121.26,10,545.67
+USB-C Charger,Computing,2023-12-23,CUST-200285,Hobart,Australia,4,198.57,15,675.14
+Wireless Earbuds,Mobile,2024-08-01,CUST-630745,Gold Coast,Australia,5,368.98,0,1844.9
+Wireless Mouse,Electronics,2025-04-21,CUST-440322,Melbourne,Australia,2,138.04,0,276.08
+Webcam HD,Mobile,2023-01-23,CUST-937649,Adelaide,Australia,2,78.3,20,125.28
+Noise Cancelling Headphones,Electronics,2025-02-20,CUST-780359,Gold Coast,Australia,4,511.94,0,2047.76
+External Hard Drive,Office,2023-07-08,CUST-902211,Brisbane,Australia,4,207.92,5,790.1
+USB Hub,Electronics,2024-05-15,CUST-050489,Hobart,Australia,2,179.19,5,340.46
+Gaming Mouse Pad,Mobile,2025-03-09,CUST-336432,Geelong,Australia,4,200.79,5,763.0
+USB-C Charger,Mobile,2024-08-07,CUST-915722,Perth,Australia,1,124.05,15,105.44
+Wireless Earbuds,Accessories,2024-09-29,CUST-805947,Newcastle,Australia,5,451.98,5,2146.91
+Bluetooth Headphones,Office,2024-02-20,CUST-893303,Sydney,Australia,1,147.17,0,147.17
+Gaming Keyboard,Mobile,2024-02-23,CUST-941887,Perth,Australia,1,298.23,10,268.41
+LED Desk Lamp,Gaming,2025-04-12,CUST-551675,Adelaide,Australia,5,557.76,20,2231.04
+LED Desk Lamp,Electronics,2024-06-13,CUST-228827,Perth,Australia,2,589.04,5,1119.18
+4K Monitor,Electronics,2023-04-11,CUST-534303,Sydney,Australia,4,318.57,20,1019.42
+Smartphone Case,Office,2024-01-03,CUST-358625,Perth,Australia,1,491.69,0,491.69
+Fitness Tracker,Gaming,2023-12-20,CUST-230450,Hobart,Australia,4,545.73,0,2182.92
+Wireless Earbuds,Electronics,2025-03-05,CUST-607206,Newcastle,Australia,3,167.94,15,428.25
+Smartphone Case,Gaming,2025-02-02,CUST-943808,Hobart,Australia,3,256.19,0,768.57
+Webcam HD,Electronics,2023-11-05,CUST-830906,Townsville,Australia,5,63.83,0,319.15
+Gaming Mouse Pad,Accessories,2024-04-02,CUST-914956,Melbourne,Australia,2,470.07,0,940.14
+Laptop Stand,Computing,2025-01-24,CUST-616649,Melbourne,Australia,4,115.4,20,369.28
+Gaming Mouse Pad,Electronics,2024-02-23,CUST-511008,Sydney,Australia,4,306.33,20,980.26
+USB Hub,Electronics,2024-08-11,CUST-602649,Sydney,Australia,1,285.49,15,242.67
+Webcam HD,Accessories,2024-02-08,CUST-122505,Sydney,Australia,2,24.42,0,48.84
+USB Hub,Electronics,2024-10-27,CUST-857947,Townsville,Australia,4,38.7,15,131.58
+4K Monitor,Electronics,2024-07-30,CUST-886561,Wollongong,Australia,1,46.21,0,46.21
+Gaming Mouse Pad,Mobile,2024-05-23,CUST-681299,Wollongong,Australia,5,256.66,0,1283.3
+4K Monitor,Electronics,2023-05-03,CUST-327410,Newcastle,Australia,2,414.81,10,746.66
+Smartphone Case,Mobile,2024-01-31,CUST-626001,Sydney,Australia,2,64.31,0,128.62
+Gaming Keyboard,Computing,2024-08-21,CUST-204226,Townsville,Australia,3,179.4,0,538.2
+Gaming Mouse Pad,Gaming,2024-12-16,CUST-211350,Wollongong,Australia,1,58.04,0,58.04
+USB Hub,Mobile,2023-01-24,CUST-881663,Perth,Australia,5,155.08,0,775.4
+USB Hub,Electronics,2024-05-31,CUST-486227,Melbourne,Australia,5,59.86,10,269.37
+Gaming Keyboard,Gaming,2024-06-15,CUST-919419,Geelong,Australia,1,252.58,0,252.58
+Portable SSD,Computing,2023-12-11,CUST-704096,Townsville,Australia,5,337.05,5,1600.99
+USB Hub,Mobile,2023-05-03,CUST-618321,Wollongong,Australia,1,394.89,10,355.4
+Wireless Mouse,Gaming,2024-06-29,CUST-811076,Adelaide,Australia,1,399.56,0,399.56
+Bluetooth Headphones,Gaming,2023-03-07,CUST-825398,Gold Coast,Australia,4,451.65,0,1806.6
+Mechanical Keyboard,Gaming,2025-01-20,CUST-259509,Adelaide,Australia,4,464.0,20,1484.8
+External Hard Drive,Accessories,2023-10-29,CUST-384225,Canberra,Australia,2,81.51,0,163.02
+Gaming Keyboard,Mobile,2023-01-29,CUST-665777,Brisbane,Australia,2,524.31,0,1048.62
+Fitness Tracker,Gaming,2025-01-05,CUST-296298,Adelaide,Australia,2,66.09,10,118.96
+LED Desk Lamp,Office,2023-05-23,CUST-182463,Sydney,Australia,2,439.82,15,747.69
+Wireless Mouse,Electronics,2024-04-20,CUST-343816,Gold Coast,Australia,5,498.08,20,1992.32
+Mechanical Keyboard,Computing,2024-03-05,CUST-706542,Wollongong,Australia,3,168.46,0,505.38
+USB-C Charger,Accessories,2023-08-24,CUST-575544,Newcastle,Australia,2,520.18,15,884.31
+USB-C Charger,Office,2024-12-07,CUST-646385,Hobart,Australia,1,35.09,15,29.83
+Mechanical Keyboard,Accessories,2023-07-09,CUST-286995,Gold Coast,Australia,5,533.04,15,2265.42
+Wireless Mouse,Gaming,2024-03-29,CUST-348416,Perth,Australia,4,130.9,15,445.06
+LED Desk Lamp,Mobile,2024-08-09,CUST-350677,Newcastle,Australia,1,299.24,5,284.28
+Smartphone Case,Mobile,2024-10-10,CUST-521672,Canberra,Australia,5,214.11,20,856.44
+Smartwatch,Mobile,2023-11-23,CUST-668596,Hobart,Australia,2,463.4,0,926.8
+Fitness Tracker,Computing,2024-04-30,CUST-651070,Sydney,Australia,5,284.59,5,1351.8
+Bluetooth Headphones,Office,2023-08-22,CUST-425539,Brisbane,Australia,5,552.77,10,2487.47
+Bluetooth Headphones,Gaming,2025-02-13,CUST-445240,Geelong,Australia,3,483.8,15,1233.69
+LED Desk Lamp,Computing,2024-03-22,CUST-332692,Wollongong,Australia,4,341.2,0,1364.8
+LED Desk Lamp,Accessories,2024-01-07,CUST-489051,Geelong,Australia,3,285.76,10,771.55
+Smartwatch,Electronics,2023-06-15,CUST-430320,Hobart,Australia,4,112.43,0,449.72
+USB Hub,Accessories,2024-11-01,CUST-245214,Gold Coast,Australia,4,424.13,15,1442.04
+Gaming Mouse Pad,Gaming,2023-10-31,CUST-413521,Perth,Australia,5,551.41,0,2757.05
+USB Hub,Gaming,2023-09-16,CUST-889797,Townsville,Australia,1,536.57,20,429.26
+Laptop Backpack,Mobile,2023-05-28,CUST-547064,Wollongong,Australia,5,281.33,0,1406.65
+Laptop Stand,Accessories,2024-03-25,CUST-675730,Newcastle,Australia,1,84.63,15,71.94
+Mechanical Keyboard,Electronics,2025-05-17,CUST-036846,Adelaide,Australia,5,531.82,0,2659.1
+Bluetooth Headphones,Computing,2024-09-20,CUST-276891,Sydney,Australia,4,481.74,10,1734.26
+Smartwatch,Accessories,2024-03-27,CUST-106159,Adelaide,Australia,1,508.32,5,482.9
+Fitness Tracker,Mobile,2024-04-10,CUST-308836,Gold Coast,Australia,1,56.97,0,56.97
+Wireless Earbuds,Gaming,2024-06-29,CUST-162087,Hobart,Australia,5,216.35,5,1027.66
+LED Desk Lamp,Gaming,2025-02-17,CUST-053978,Hobart,Australia,2,131.54,15,223.62
+Fitness Tracker,Accessories,2024-09-14,CUST-330390,Sydney,Australia,5,121.34,0,606.7
+LED Desk Lamp,Office,2024-09-02,CUST-888609,Townsville,Australia,1,267.0,10,240.3
+Portable SSD,Gaming,2025-03-28,CUST-801142,Canberra,Australia,1,291.17,10,262.05
+Fitness Tracker,Office,2024-04-06,CUST-772592,Wollongong,Australia,1,135.44,15,115.12
+Bluetooth Headphones,Gaming,2025-03-15,CUST-394505,Wollongong,Australia,4,392.92,10,1414.51
+Mechanical Keyboard,Mobile,2024-07-27,CUST-600772,Canberra,Australia,5,385.37,10,1734.16
+Wireless Earbuds,Computing,2023-10-13,CUST-996481,Newcastle,Australia,3,468.62,0,1405.86
+Wireless Mouse,Mobile,2025-04-16,CUST-058105,Perth,Australia,1,21.89,0,21.89
+Tablet 10in,Accessories,2025-03-08,CUST-906136,Perth,Australia,5,343.9,5,1633.52
+Wireless Mouse,Electronics,2025-03-20,CUST-082715,Wollongong,Australia,1,496.11,10,446.5
+Webcam HD,Gaming,2024-03-22,CUST-567414,Gold Coast,Australia,3,448.0,15,1142.4
+Mechanical Keyboard,Accessories,2023-08-16,CUST-597984,Adelaide,Australia,2,273.88,15,465.6
+Smartwatch,Electronics,2024-07-19,CUST-146631,Gold Coast,Australia,5,98.58,5,468.25
+4K Monitor,Accessories,2024-04-13,CUST-176894,Melbourne,Australia,5,441.66,15,1877.06
+Smartwatch,Accessories,2024-12-18,CUST-555103,Brisbane,Australia,1,19.44,20,15.55
+Fitness Tracker,Computing,2023-05-19,CUST-934524,Wollongong,Australia,3,48.78,20,117.07
+USB-C Charger,Gaming,2023-06-10,CUST-919106,Melbourne,Australia,4,104.81,5,398.28
+Wireless Earbuds,Mobile,2025-03-06,CUST-330022,Gold Coast,Australia,1,26.5,0,26.5
+Laptop Stand,Office,2023-01-07,CUST-743919,Hobart,Australia,3,527.59,10,1424.49
+USB-C Charger,Computing,2024-03-01,CUST-758507,Melbourne,Australia,3,68.93,10,186.11
+Laptop Stand,Electronics,2024-08-13,CUST-144908,Geelong,Australia,5,499.68,0,2498.4
+Wireless Earbuds,Electronics,2023-07-02,CUST-013011,Gold Coast,Australia,1,502.87,0,502.87
+Gaming Keyboard,Gaming,2023-10-12,CUST-996789,Geelong,Australia,4,301.51,0,1206.04
+Gaming Keyboard,Computing,2023-06-28,CUST-911095,Brisbane,Australia,2,317.99,20,508.78
+Bluetooth Headphones,Mobile,2025-02-23,CUST-945366,Newcastle,Australia,1,264.41,20,211.53
+Portable SSD,Mobile,2023-03-29,CUST-412865,Gold Coast,Australia,3,292.68,15,746.33
+Wireless Mouse,Office,2023-02-21,CUST-959025,Melbourne,Australia,1,252.42,0,252.42
+Wireless Earbuds,Office,2023-12-29,CUST-073309,Brisbane,Australia,4,510.95,20,1635.04
+4K Monitor,Computing,2023-10-26,CUST-838777,Adelaide,Australia,5,525.3,0,2626.5
+Noise Cancelling Headphones,Electronics,2023-08-25,CUST-516537,Gold Coast,Australia,1,278.9,15,237.06
+USB-C Charger,Electronics,2023-03-22,CUST-274263,Hobart,Australia,3,409.2,10,1104.84
+LED Desk Lamp,Electronics,2023-09-28,CUST-128832,Newcastle,Australia,2,60.6,0,121.2
+External Hard Drive,Computing,2024-02-05,CUST-230859,Canberra,Australia,5,306.52,0,1532.6
+Wireless Earbuds,Computing,2023-01-18,CUST-351714,Geelong,Australia,2,367.1,15,624.07
+External Hard Drive,Accessories,2023-11-13,CUST-539890,Gold Coast,Australia,2,318.6,0,637.2
+Mechanical Keyboard,Accessories,2023-06-20,CUST-715515,Townsville,Australia,2,152.55,10,274.59
+Portable SSD,Mobile,2023-04-06,CUST-785236,Wollongong,Australia,4,326.6,15,1110.44
+Wireless Mouse,Office,2025-05-12,CUST-186165,Gold Coast,Australia,5,485.04,0,2425.2
+Smartphone Case,Electronics,2023-11-25,CUST-224994,Canberra,Australia,3,332.89,20,798.94
+Fitness Tracker,Office,2025-04-09,CUST-066166,Perth,Australia,5,136.26,0,681.3
+Gaming Keyboard,Office,2023-06-09,CUST-174078,Melbourne,Australia,1,160.97,20,128.78
+Gaming Keyboard,Gaming,2024-04-18,CUST-907408,Canberra,Australia,3,205.15,15,523.13
+USB-C Charger,Mobile,2023-12-29,CUST-313862,Perth,Australia,2,326.68,5,620.69
+Laptop Stand,Electronics,2025-06-12,CUST-497001,Canberra,Australia,3,321.65,20,771.96
+Tablet 10in,Computing,2025-01-06,CUST-654001,Sydney,Australia,4,432.12,5,1642.06
+Gaming Keyboard,Mobile,2024-08-07,CUST-343520,Canberra,Australia,5,377.4,20,1509.6
+Mechanical Keyboard,Electronics,2023-01-23,CUST-802611,Wollongong,Australia,2,27.52,15,46.78
+4K Monitor,Electronics,2024-09-06,CUST-978289,Sydney,Australia,2,223.72,15,380.32
+Wireless Mouse,Electronics,2025-01-29,CUST-817477,Perth,Australia,5,117.74,10,529.83
+Mechanical Keyboard,Computing,2023-05-22,CUST-319041,Wollongong,Australia,5,30.3,15,128.78
+Laptop Stand,Gaming,2023-03-14,CUST-574750,Townsville,Australia,2,50.98,0,101.96
+Noise Cancelling Headphones,Accessories,2024-01-06,CUST-911965,Adelaide,Australia,1,162.65,10,146.39
+Gaming Mouse Pad,Accessories,2024-08-09,CUST-590594,Gold Coast,Australia,1,87.79,20,70.23
+Laptop Backpack,Accessories,2023-08-09,CUST-746970,Geelong,Australia,4,323.9,10,1166.04
+Smartwatch,Gaming,2023-05-12,CUST-440553,Brisbane,Australia,5,189.75,0,948.75
+Wireless Mouse,Computing,2024-09-02,CUST-626566,Adelaide,Australia,2,465.54,10,837.97
+Webcam HD,Gaming,2023-12-18,CUST-926054,Townsville,Australia,1,200.73,0,200.73
+Wireless Earbuds,Office,2023-11-26,CUST-093038,Newcastle,Australia,1,177.05,0,177.05
+Laptop Stand,Computing,2023-02-19,CUST-980418,Hobart,Australia,1,289.07,10,260.16
+Gaming Mouse Pad,Gaming,2023-03-15,CUST-051972,Adelaide,Australia,2,182.09,0,364.18
+Laptop Stand,Computing,2023-06-12,CUST-175442,Gold Coast,Australia,5,442.28,0,2211.4
+Tablet 10in,Accessories,2023-07-22,CUST-165375,Adelaide,Australia,1,411.74,15,349.98
+Gaming Keyboard,Mobile,2023-11-21,CUST-984309,Newcastle,Australia,2,365.08,5,693.65
+Bluetooth Headphones,Mobile,2024-08-07,CUST-146649,Wollongong,Australia,1,374.86,10,337.37
+Portable SSD,Office,2024-11-07,CUST-194985,Hobart,Australia,3,528.17,15,1346.83
+4K Monitor,Mobile,2024-04-11,CUST-104866,Wollongong,Australia,1,425.55,10,383.0
+Webcam HD,Electronics,2023-12-13,CUST-947487,Canberra,Australia,4,512.86,15,1743.72
+Portable SSD,Mobile,2024-12-31,CUST-110783,Canberra,Australia,5,585.29,10,2633.8
+Wireless Mouse,Gaming,2023-11-14,CUST-595204,Gold Coast,Australia,5,408.66,0,2043.3
+USB-C Charger,Accessories,2023-10-23,CUST-527931,Newcastle,Australia,3,598.12,0,1794.36
+Bluetooth Headphones,Electronics,2025-03-05,CUST-910313,Townsville,Australia,1,32.34,15,27.49
+LED Desk Lamp,Mobile,2023-11-19,CUST-172592,Hobart,Australia,4,139.05,10,500.58
+External Hard Drive,Computing,2024-09-14,CUST-925505,Adelaide,Australia,5,425.87,10,1916.41
+4K Monitor,Electronics,2025-01-18,CUST-387658,Melbourne,Australia,5,149.16,20,596.64
+Portable SSD,Mobile,2023-07-05,CUST-088170,Canberra,Australia,1,166.88,20,133.5
+Wireless Earbuds,Gaming,2023-08-23,CUST-093025,Canberra,Australia,5,534.32,15,2270.86
+USB-C Charger,Electronics,2023-02-25,CUST-287911,Canberra,Australia,2,98.89,0,197.78
+External Hard Drive,Computing,2024-01-11,CUST-826012,Geelong,Australia,3,319.14,0,957.42
+4K Monitor,Electronics,2023-08-27,CUST-703049,Newcastle,Australia,3,304.63,0,913.89
+Bluetooth Headphones,Accessories,2024-10-25,CUST-774781,Perth,Australia,2,264.34,20,422.94
+LED Desk Lamp,Office,2023-11-09,CUST-788000,Canberra,Australia,2,293.46,20,469.54
+Bluetooth Headphones,Computing,2024-08-10,CUST-170911,Sydney,Australia,2,460.2,15,782.34
+Portable SSD,Electronics,2024-08-13,CUST-463674,Hobart,Australia,1,119.39,5,113.42
+USB Hub,Accessories,2023-01-21,CUST-868692,Brisbane,Australia,3,541.87,0,1625.61
+Fitness Tracker,Computing,2025-02-03,CUST-304944,Sydney,Australia,1,436.09,10,392.48
+Webcam HD,Mobile,2025-01-19,CUST-736240,Brisbane,Australia,1,591.6,20,473.28
+USB Hub,Mobile,2023-04-25,CUST-959561,Hobart,Australia,5,305.84,20,1223.36
+Webcam HD,Mobile,2023-11-08,CUST-189751,Wollongong,Australia,1,574.88,0,574.88
+Gaming Keyboard,Gaming,2025-01-24,CUST-410506,Newcastle,Australia,4,79.27,10,285.37
+External Hard Drive,Accessories,2025-03-22,CUST-535607,Gold Coast,Australia,4,428.5,0,1714.0
+Smartwatch,Gaming,2023-11-05,CUST-213281,Sydney,Australia,2,583.15,0,1166.3
+Webcam HD,Mobile,2023-04-15,CUST-767662,Wollongong,Australia,4,27.5,0,110.0
+Smartwatch,Mobile,2023-10-25,CUST-653413,Wollongong,Australia,4,251.67,0,1006.68
+Portable SSD,Gaming,2024-12-24,CUST-380494,Gold Coast,Australia,5,75.57,15,321.17
+Tablet 10in,Electronics,2023-11-15,CUST-958773,Melbourne,Australia,5,122.04,0,610.2
+Laptop Stand,Electronics,2023-06-22,CUST-440384,Wollongong,Australia,4,584.77,0,2339.08
+Laptop Stand,Electronics,2025-03-06,CUST-724085,Hobart,Australia,2,39.08,0,78.16
+Gaming Keyboard,Computing,2025-03-05,CUST-334543,Hobart,Australia,1,324.31,5,308.09
+Noise Cancelling Headphones,Electronics,2023-11-21,CUST-682646,Geelong,Australia,4,202.66,10,729.58
+Laptop Stand,Computing,2024-09-10,CUST-658906,Newcastle,Australia,2,350.24,10,630.43
+Wireless Earbuds,Office,2025-03-24,CUST-464856,Melbourne,Australia,5,43.06,0,215.3
+Tablet 10in,Office,2023-06-11,CUST-271863,Geelong,Australia,5,515.86,20,2063.44
+External Hard Drive,Computing,2023-11-24,CUST-452590,Melbourne,Australia,4,220.22,20,704.7
+USB-C Charger,Mobile,2025-04-19,CUST-406517,Brisbane,Australia,2,118.75,0,237.5
+Portable SSD,Accessories,2024-06-27,CUST-806331,Adelaide,Australia,5,447.8,15,1903.15
+Gaming Mouse Pad,Computing,2024-10-04,CUST-868095,Gold Coast,Australia,5,441.72,0,2208.6
+Wireless Earbuds,Mobile,2025-05-31,CUST-964120,Gold Coast,Australia,4,381.92,15,1298.53
+Tablet 10in,Accessories,2023-02-15,CUST-411522,Newcastle,Australia,4,312.73,0,1250.92
+Mechanical Keyboard,Computing,2023-06-26,CUST-959234,Canberra,Australia,2,551.82,0,1103.64
+Smartwatch,Gaming,2023-12-15,CUST-835829,Wollongong,Australia,4,61.86,5,235.07
+LED Desk Lamp,Electronics,2024-04-25,CUST-094899,Sydney,Australia,4,451.48,0,1805.92
+Gaming Mouse Pad,Office,2023-12-13,CUST-191216,Wollongong,Australia,5,424.65,5,2017.09
+Smartphone Case,Office,2023-05-12,CUST-020633,Melbourne,Australia,4,208.97,10,752.29
+LED Desk Lamp,Mobile,2023-10-03,CUST-968908,Canberra,Australia,1,430.84,10,387.76
+External Hard Drive,Electronics,2025-06-01,CUST-617141,Newcastle,Australia,3,552.9,15,1409.89
+Gaming Mouse Pad,Computing,2024-06-25,CUST-844026,Adelaide,Australia,2,113.12,0,226.24
+Laptop Backpack,Computing,2023-07-04,CUST-267680,Gold Coast,Australia,2,530.75,0,1061.5
+Wireless Mouse,Mobile,2025-05-20,CUST-461504,Melbourne,Australia,2,594.49,20,951.18
+USB-C Charger,Office,2023-03-30,CUST-618641,Melbourne,Australia,5,258.14,0,1290.7
+Gaming Keyboard,Office,2024-08-27,CUST-400428,Newcastle,Australia,5,147.18,0,735.9
+Tablet 10in,Mobile,2024-07-20,CUST-002326,Gold Coast,Australia,1,556.68,15,473.18
+Laptop Backpack,Mobile,2024-06-27,CUST-753568,Sydney,Australia,5,195.52,0,977.6
+Fitness Tracker,Computing,2024-03-11,CUST-832972,Newcastle,Australia,4,479.69,10,1726.88
+Smartphone Case,Office,2023-03-09,CUST-293328,Hobart,Australia,4,176.71,5,671.5
+Laptop Stand,Gaming,2024-07-23,CUST-211237,Melbourne,Australia,3,434.98,5,1239.69
+Wireless Mouse,Computing,2023-06-26,CUST-260201,Townsville,Australia,1,306.62,20,245.3
+USB-C Charger,Accessories,2023-03-27,CUST-751084,Gold Coast,Australia,1,553.36,15,470.36
+Smartphone Case,Computing,2023-02-14,CUST-007700,Wollongong,Australia,2,256.9,0,513.8
+Bluetooth Headphones,Office,2023-05-16,CUST-060342,Newcastle,Australia,2,280.83,15,477.41
+Wireless Mouse,Office,2024-06-06,CUST-129212,Canberra,Australia,5,55.86,15,237.41
+USB-C Charger,Electronics,2023-04-20,CUST-292332,Hobart,Australia,2,254.68,10,458.42
+Portable SSD,Mobile,2024-10-03,CUST-517593,Melbourne,Australia,3,343.23,0,1029.69
+Webcam HD,Mobile,2024-05-18,CUST-319812,Wollongong,Australia,2,162.34,0,324.68
+Laptop Backpack,Computing,2025-05-19,CUST-231425,Perth,Australia,2,484.2,0,968.4
+USB Hub,Gaming,2023-07-13,CUST-451024,Gold Coast,Australia,4,466.89,15,1587.43
+Smartphone Case,Mobile,2025-02-25,CUST-950680,Geelong,Australia,3,363.86,0,1091.58
+Smartwatch,Gaming,2025-04-22,CUST-465629,Brisbane,Australia,3,85.42,15,217.82
+Laptop Backpack,Mobile,2023-01-11,CUST-182256,Townsville,Australia,1,150.96,0,150.96
+USB-C Charger,Office,2025-01-13,CUST-909003,Perth,Australia,4,450.49,0,1801.96
+Laptop Stand,Accessories,2023-06-10,CUST-689903,Sydney,Australia,2,215.77,10,388.39
+Mechanical Keyboard,Mobile,2023-07-02,CUST-055450,Newcastle,Australia,1,278.69,0,278.69
+Laptop Stand,Computing,2023-10-27,CUST-914287,Canberra,Australia,5,500.3,10,2251.35
+Portable SSD,Gaming,2023-12-07,CUST-519369,Gold Coast,Australia,2,479.64,15,815.39
+Smartphone Case,Mobile,2023-01-16,CUST-281515,Townsville,Australia,2,335.91,0,671.82
+Laptop Stand,Mobile,2025-06-02,CUST-456828,Melbourne,Australia,2,141.95,0,283.9
+Gaming Keyboard,Accessories,2024-09-12,CUST-838808,Gold Coast,Australia,4,480.52,0,1922.08
+LED Desk Lamp,Accessories,2023-11-02,CUST-920571,Newcastle,Australia,2,190.35,5,361.66
+LED Desk Lamp,Electronics,2025-06-15,CUST-987721,Wollongong,Australia,2,108.59,0,217.18
+Wireless Earbuds,Mobile,2023-10-17,CUST-787257,Geelong,Australia,3,523.17,20,1255.61
+Noise Cancelling Headphones,Office,2024-05-09,CUST-367919,Gold Coast,Australia,2,372.93,10,671.27
+Mechanical Keyboard,Mobile,2025-03-22,CUST-653507,Perth,Australia,5,384.36,10,1729.62
+Gaming Mouse Pad,Computing,2025-06-18,CUST-727788,Canberra,Australia,2,209.39,20,335.02
+Smartphone Case,Mobile,2023-06-18,CUST-271361,Brisbane,Australia,5,33.68,0,168.4
+External Hard Drive,Mobile,2025-03-12,CUST-886867,Sydney,Australia,4,103.1,10,371.16
+Smartwatch,Mobile,2023-11-08,CUST-266318,Townsville,Australia,1,406.33,0,406.33
+Noise Cancelling Headphones,Computing,2024-11-09,CUST-567435,Wollongong,Australia,5,39.01,0,195.05
+Fitness Tracker,Accessories,2023-09-28,CUST-301060,Geelong,Australia,1,470.56,0,470.56
+USB Hub,Accessories,2025-06-19,CUST-494848,Perth,Australia,1,62.97,0,62.97
+Wireless Mouse,Computing,2023-07-30,CUST-707656,Canberra,Australia,2,229.47,10,413.05
+Webcam HD,Computing,2024-03-29,CUST-914642,Newcastle,Australia,3,203.21,10,548.67
+Smartwatch,Gaming,2025-01-09,CUST-601881,Townsville,Australia,5,406.95,15,1729.54
+Smartphone Case,Mobile,2023-10-17,CUST-913964,Canberra,Australia,2,305.48,0,610.96
+Wireless Mouse,Mobile,2024-06-20,CUST-807454,Sydney,Australia,5,410.57,20,1642.28
+Wireless Mouse,Accessories,2023-07-13,CUST-093023,Canberra,Australia,5,403.68,0,2018.4
+USB-C Charger,Mobile,2023-06-26,CUST-710950,Gold Coast,Australia,5,593.21,0,2966.05
+Wireless Mouse,Gaming,2024-09-29,CUST-205771,Wollongong,Australia,2,179.46,0,358.92
+Noise Cancelling Headphones,Office,2025-02-16,CUST-929137,Sydney,Australia,4,62.06,15,211.0
+Laptop Stand,Gaming,2025-04-02,CUST-986334,Brisbane,Australia,2,524.33,0,1048.66
