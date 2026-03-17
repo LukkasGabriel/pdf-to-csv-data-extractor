@@ -2,7 +2,7 @@
 
 A Python automation tool that extracts structured data from PDF documents and converts it into CSV format for analysis and reporting.
 
-This project was built to automate the process of transforming unstructured PDF reports into structured datasets that can be used in Excel, databases or business intelligence tools.
+This project uses Tabula and Pandas to extract tables from PDF documents and transform them into structured datasets that can be used for analysis, reporting or business intelligence workflows.
 
 ## Overview
 
